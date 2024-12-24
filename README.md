@@ -1,3 +1,5 @@
-Untuk menjalankan menggunakan php server
-Databse mengunakan sql
-Databasetting find config.php file 
+To run using php server
+
+Database using sql
+
+Databaseetting find Db_config.php file
